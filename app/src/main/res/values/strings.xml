@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">webrtcProjectForRecord</string>
+    <string name="enter">enter</string>
+    <string name="username">username</string>
+    <string name="who_to_call">who to call ?</string>
+    <string name="call">call</string>
+</resources>
